@@ -1,34 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Projeto WorldTrip ✈
 
-## Getting Started
+&nbsp;
 
-First, run the development server:
+![worldtrip1](https://user-images.githubusercontent.com/107319227/210069032-75f6cba1-eef5-4faf-92ce-873facc65fcc.png)
 
-```bash
-npm run dev
-# or
-yarn dev
+
+## 📚 Informações sobre o projeto
+
+* Esse projeto foi desenvolvido durante um desafio do Ignite da Rocketseat, o objetivo era criar um site do zero seguindo um layout já desenvolvido no [Figma](https://www.figma.com/file/vkzxq6eGgeH2JeHcXujbDd/Desafio-1-M%C3%B3dulo-4-ReactJS?node-id=0%3A1&t=sesCoNPyeDtI1w64-1), porém utilizando apenas da biblioteca do Chakra UI para realizar a estilização da página.
+
+&nbsp;
+
+## 💻 Contrução do projeto
+
+* Design feito utilizando o Chakra UI, também com versões responsivas para diferentes dispositivos
+* Slides na pagina inicial utilizando o Swiper
+
+![WorldTrip2](https://user-images.githubusercontent.com/107319227/210069118-f4cdf9c3-151d-44b3-82de-7475dd764e7d.png)
+---
+![WorldTrip3](https://user-images.githubusercontent.com/107319227/210069189-36d2a3f6-6ebf-4f69-a74b-3d1c9f63f03b.png)
+
+
+&nbsp;
+
+## 🛠️ Tecnologias/Ferramentas ultilizadas
+
+* [React](https://pt-br.reactjs.org/E)
+* [Next.js](https://nextjs.org/)
+* [Chakra UI](https://chakra-ui.com/)
+* [Swiper](https://swiperjs.com/react)
+
+&nbsp;
+
+## ⚙️ Instalação
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/Elias-Ainsworth/worldtrip.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+# Acesse a pasta da aplicação
+$ cd worldtrip
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+# Instale as dependências
+$ yarn
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+# Inicie a aplicação
+$ yarn dev
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+---
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center">Feito por Lucca Ambrosius 🦊</p>
